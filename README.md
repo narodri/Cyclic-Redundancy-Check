@@ -1,5 +1,5 @@
-crc_encoder: Convert 'dataword' to 'codeword' using CRC.
-crc_decoder: While restoring 'codeword' to 'dataword', detects errors.
+#crc_encoder: Convert 'dataword' to 'codeword' using CRC.
+#crc_decoder: While restoring 'codeword' to 'dataword', detects errors.
 
 (0) How to compile
 g++ -o crc_encoder crc_encoder.cc
